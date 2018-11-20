@@ -36,12 +36,16 @@ One more thing that will instantly light up the Intro page is you! Yes, your pho
 
 A general rule of thumb for your photograph is that it should be lively. We want to see you smiling and welcoming the viewers to your website and not frowning to ask them to leave. Again, avoid it from being too flashy while at the same time you can experiment with it and have a casual photograph as well. Since, this is a portfolio website - which is different from your LinkedIn profile - you can take some liberties.
 
-<img src="/blogs/images/img_1.jpg" alt="Frown" style="width:200px;"/>
+<img src="/blogs/images/img_1.jpg" alt="Frown" style="width:250px;"/>
 
-![Frowning Face](/blogs/images/img_1.jpg "Frown")
-
-![Smiling Face](/blogs/images/img_2.jpg "Smile")
+<img src="/blogs/images/img_2.jpg" alt="Smile" style="width:250px;"/>
 
 Which one out of these 2 would you prefer? Bottomline - welcome viewers with a good photo.
 
 Next, we will move on to the **About** section.
+
+## About
+
+The About section is an extension of the Intro section itself. After someone has gone through your intro and wants to know more, we have About section just for that. You can be more flexible in this section by including additional details, such ass your work history, your academic history and other *general* information about yourself.
+
+**Tip:** Please include details in the form of bullet points. It helps the viewers skim through it quickly. Bullet points and/or tables are more readable and should be preferred.
