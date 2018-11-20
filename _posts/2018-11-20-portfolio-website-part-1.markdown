@@ -36,8 +36,8 @@ One more thing that will instantly light up the Intro page is you! Yes, your pho
 
 A general rule of thumb for your photograph is that it should be lively. We want to see you smiling and welcoming the viewers to your website and not frowning to ask them to leave. Again, avoid it from being too flashy while at the same time you can experiment with it and have a casual photograph as well. Since, this is a portfolio website - which is different from your LinkedIn profile - you can take some liberties.
 
-![Frowning Face](/images/img_1.jpg "Frown")
+![Frowning Face](/blogs/images/img_1.jpg "Frown" =160x200)
 
-![Smiling Face](/images/img_2.jpg "Smile")
+![Smiling Face](/blogs/images/img_2.jpg "Smile" =160x200)
 
 Which one out of these 2 would you prefer? Bottomline - welcome viewers with a good photo.
