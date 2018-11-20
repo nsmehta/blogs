@@ -41,3 +41,5 @@ A general rule of thumb for your photograph is that it should be lively. We want
 ![Smiling Face](/blogs/images/img_2.jpg "Smile")
 
 Which one out of these 2 would you prefer? Bottomline - welcome viewers with a good photo.
+
+Next, we will move on to the **About** section.
