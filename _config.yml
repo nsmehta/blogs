@@ -1,14 +1,14 @@
 # Setup
 title:        Blogs | Nikhil Mehta
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Blogs hosted on GitHub using Jekyll Theme
 baseurl:      "/blogs"
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Nikhil Mehta
+  url:        http://www3.cs.stonybrook.edu/~nsmehta/ 
 
 # Gems
 gems:
